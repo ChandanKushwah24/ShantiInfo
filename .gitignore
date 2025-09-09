@@ -1,3 +1,9 @@
 HTMG Flask/apis/__pycache__/
 HTMG Flask/models/__pycache__/
 HTMG Flask/__pycache__/
+HTMG FastAPI/apis/__pycache__/
+HTMG FastAPI/models/__pycache__/
+HTMG FastAPI/__pycache__/
+HTMG FastAPI/routes/__pycache__/
+HTMG FastAPI/schemas/__pycache__/
+HTMG FastAPI/utils/__pycache__/
